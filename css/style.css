@@ -6,3 +6,12 @@
 #tamanioLogo{
     height: 50px;
 }
+
+
+/* MEDIA QUERIES */
+/* ICONOS REDES SOCIALES NAVBAR */
+@media all and (min-width:992px){
+    .navbar_redesSociales{
+        display: none;
+    }
+}
