@@ -3,10 +3,14 @@
     padding: 0;
 }
 
+/* HEADER */
 #tamanioLogo{
     height: 50px;
 }
 
+#banner{
+    width: 100%;
+}
 
 /* MEDIA QUERIES */
 /* ICONOS REDES SOCIALES NAVBAR */
